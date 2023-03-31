@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Marathe</h1>
 <h3 align="center">A passionate Software/IoT developer</h3>
-<imag align ="right" alt="GIF" width="400"  src="https://github.com/aditya232002/aditya232002/blob/main/programmer.gif"/>
+<img align ="center" alt="Banner" src""/>
+<img align ="right" alt="GIF" width="400"  src="https://github.com/aditya232002/aditya232002/blob/main/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya232002&label=Profile%20views&color=0e75b6&style=flat" alt="aditya232002" /> </p>
 
 <h3 align="left">Connect with me:</h3>
