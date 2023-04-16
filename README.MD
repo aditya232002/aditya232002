@@ -9,11 +9,11 @@
 <p align="left">
 <a href="https://hashnode.com/@aditya232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aditya232" height="30" width="40" /></a><a href="https://twitter.com/aditya_232002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_232002" height="30" width="40" /></a><a href="https://linkedin.com/in/aditya-marathe232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-marathe232" height="30" width="40" /></a>
 </p>
-- 💬 Ask me about  IoT, Python, Linux.
 
 - 📫 How to reach me **adityamarathe232@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-marathe232/](https://www.linkedin.com/in/aditya-marathe232/)
+- 💬 Ask me about  IoT, Python, Linux.
 
 - 📝 You can read my articles on [https://aditya232.hashnode.dev/](https://aditya232.hashnode.dev/)
  
