@@ -1,4 +1,4 @@
-![logo](https://github.com/aditya232002/aditya232002/blob/main/Banner.jpg)
+![logo](https://github.com/aditya232002/aditya232002/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Marathe</h1>
 <h3 align="center">A passionate Software/IoT developer</h3>
 
