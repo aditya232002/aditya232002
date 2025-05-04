@@ -12,7 +12,7 @@
 - 📫 How to reach me **adityamarathe232@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aditya-marathe232/](https://www.linkedin.com/in/aditya-marathe232/)
-- 💬 Ask me about  IoT, Python, Linux.
+- 💬 Ask me about - IoT, Python, Java.
 
 - 📝 You can read my articles on [https://aditya232.hashnode.dev/](https://aditya232.hashnode.dev/)
  
